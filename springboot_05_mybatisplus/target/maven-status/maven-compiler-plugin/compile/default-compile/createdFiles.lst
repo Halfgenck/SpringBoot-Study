@@ -1,0 +1,3 @@
+com\hgc\domain\Book.class
+com\hgc\Springboot05MybatisplusApplication.class
+com\hgc\mapper\BookMapper.class
