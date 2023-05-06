@@ -1,0 +1,47 @@
+server:
+  port: 81
+
+#a:
+#  b:
+#    c:
+#      d:
+#        e: 123
+#
+#habits:
+#  - game
+#  - music
+#  - sleep
+#
+#habits2: [ game, music, sleep ]
+#
+#users:
+#  - name: zhangsan
+#    age: 40
+#  - name: lisi
+#    age: 38
+#  - name: wangwu
+#    age: 15
+#
+#users2:
+#  - name: zhangsan
+#    age: 40
+#  - name: lisi
+#    age: 38
+#  - name: wangwu
+#    age: 15
+#
+#users3: [ { name: zhangsan, age: 40 }, { name: lisi, age: 38 }, { name: wangwu, age: 15 } ]
+#
+#  servlet:
+#    context-path: /test
+#
+#
+## 可以使用environment封装所有的配置信息
+#enterprise:
+#  name: hgc
+#  age: 16
+#  tel: 12312312
+#  subject:
+#    - java
+#    - html
+#    - big data

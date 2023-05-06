@@ -1,0 +1,20 @@
+server:
+  port: 82
+
+# 大小写敏感
+# 属性层级关系使用多级描述 每行结尾以冒号结束
+# 使用缩进表示层级关系 同层级左侧对其 之云希使用空格 不允许使用 tab 键
+# 属性值前面添加空格 属性名 属性值 之间使用冒号 + 空格作为分隔
+# 表示注释
+spring:
+  data:
+    mongodb:
+      port: 1111
+#使用 @Value注解时候 ${一级属性名.二级属性名....}
+# 属性名引用
+baseDir: /usr/local/fire
+center:
+    dataDir: ${baseDir}/data
+    tmpDir: ${baseDir}/tmp
+    logDir: ${baseDir}/log
+    msgDir: ${baseDir}/msg
