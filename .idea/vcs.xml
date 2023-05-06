@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_01_01_alibabaquickstart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_01_02_springquickstart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_01_03_quickstart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_01_04_officialstart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_01_05_REstful" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_01_06_fileload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_02_baseconfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_03_junit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_04_mybatis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_05_mybatisplus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_06_ssm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_07_config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_08_properties" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_09_log" vcs="Git" />
+  </component>
+</project>

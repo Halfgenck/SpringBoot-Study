@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63240887-d675-4f7c-9eea-c07e022da1c3" name="Changes" comment="fisrt commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/main/java/com/hgc/Springboot0101AlibabaquickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/main/java/com/hgc/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/main/java/com/hgc/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/main/java/com/hgc/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_01_alibabaquickstart/src/test/java/com/hgc/Springboot0101AlibabaquickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/main/java/com/hgc/Springboot0102SpringquickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/main/java/com/hgc/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/main/java/com/hgc/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/main/java/com/hgc/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_02_springquickstart/src/test/java/com/hgc/Springboot0102SpringquickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_03_quickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_03_quickstart/src/main/java/com/hgc/Springboot0103QuickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_03_quickstart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_03_quickstart/src/test/java/com/hgc/Springboot0103QuickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_04_officialstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_04_officialstart/src/main/java/com/hgc/Springboot0104OfficialstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_04_officialstart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_04_officialstart/src/test/java/com/hgc/Springboot0104OfficialstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/src/main/java/com/hgc/SpringbootREstfulApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/src/main/java/com/hgc/controller/User1Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/src/main/java/com/hgc/controller/User2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/src/main/java/com/hgc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_05_REstful/src/test/java/com/hgc/Springboot0105REstfulApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_06_fileload/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_06_fileload/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_06_fileload/src/main/java/com/hgc/Springboot0106FileloadApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_06_fileload/src/main/java/com/hgc/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_06_fileload/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_01_06_fileload/src/test/java/com/hgc/Springboot0106FileloadApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/main/java/com/hgc/Springboot02BaseconfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/main/java/com/hgc/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/main/resources/bak/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_baseconfig/src/test/java/com/hgc/Springboot02BaseconfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_03_junit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_03_junit/src/main/java/com/hgc/Springboot03JunitApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_03_junit/src/main/java/com/hgc/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_03_junit/src/main/java/com/hgc/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_03_junit/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_03_junit/src/test/java/com/hgc/Springboot03JunitApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_04_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_04_mybatis/src/main/java/com/hgc/Mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_04_mybatis/src/main/java/com/hgc/Springboot04MybatisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_04_mybatis/src/main/java/com/hgc/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_04_mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_04_mybatis/src/test/java/com/hgc/Springboot04MybatisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_05_mybatisplus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_05_mybatisplus/src/main/java/com/hgc/Springboot05MybatisplusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_05_mybatisplus/src/main/java/com/hgc/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_05_mybatisplus/src/main/java/com/hgc/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_05_mybatisplus/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_05_mybatisplus/src/test/java/com/hgc/Springboot05MybatisplusApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/Springboot06SsmApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/config/MPConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/controller/BookController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/controller/utils/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/controller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/java/com/hgc/service/impl/BookServiceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/pages/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_06_ssm/src/test/java/com/hgc/Springboot06SsmApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/main/java/com/hgc/Springboot07ConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/main/resources/ebank-server.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/main/resources/ebank.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_07_config/src/test/java/com/hgc/Springboot07ConfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/java/com/hgc/Springboot08PropertiesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/application-devDB.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/application-devMVC.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/properties/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/properties/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/properties/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/properties/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/yml/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/yml/application-pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/yml/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/mul/yml/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/bak/single/application-all.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_08_properties/src/test/java/com/hgc/Springboot08PropertiesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/main/java/com/hgc/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/main/java/com/hgc/BookController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/main/java/com/hgc/BookController_lombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/main/java/com/hgc/Springboot09LogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/main/java/com/hgc/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_09_log/src/test/java/com/hgc/Springboot09LogApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/Springboot06SsmApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/config/MPConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/controller/BookController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/controller/utils/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/controller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/java/com/hgc/service/impl/BookServiceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/pages/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_10_hot/src/test/java/com/hgc/Springboot06SsmApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Software/Maven/apache-maven-3.8.7" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Software\Maven\apache-maven-3.8.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PPCX6eMVYDtvZjFIZ6bRNBcGhd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/projects/SpringBoot-Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "http.proxy",
+    "spring.configuration.checksum": "a51ec221a999bb50d34962493a218f0d"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\SpringBoot-Study" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_09_log\src\main\resources" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_09_log\src\main\java\com\hgc" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_08_properties\src\main\resources" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_07_config\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\SpringBoot-Study\springboot_07_config\src\main\resources\config" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_06_ssm\src\main\resources" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_02_baseconfig\src\main\resources" />
+      <recent name="E:\projects\SpringBoot-Study\springboot_02_baseconfig\src\main\resources\bak" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hgc.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot05MybatisplusApplicationTests.testGetAll">
+    <configuration name="Springboot04JunitApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_03_junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hgc" />
+      <option name="MAIN_CLASS_NAME" value="com.hgc.Springboot04JunitApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04MybatisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_04_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hgc" />
+      <option name="MAIN_CLASS_NAME" value="com.hgc.Springboot04MybatisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05MybatisplusApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_05_mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hgc" />
+      <option name="MAIN_CLASS_NAME" value="com.hgc.Springboot05MybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05MybatisplusApplicationTests.testGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_05_mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hgc" />
+      <option name="MAIN_CLASS_NAME" value="com.hgc.Springboot05MybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0103QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_03_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot0103QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0104OfficialstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_04_officialstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot0104OfficialstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0105REstfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_05_REstful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot0105REstfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0106FileloadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_06_fileload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot0106FileloadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02BaseconfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_02_baseconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot02BaseconfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03JunitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_03_junit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot03JunitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_04_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot04MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05MybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_05_mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot05MybatisplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06SsmApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_10_hot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot06SsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06SsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_06_ssm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot06SsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_07_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot07ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08PropertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_08_properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot08PropertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09LogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_09_log" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.Springboot09LogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootREstfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_05_REstful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hgc.SpringbootREstfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot05MybatisplusApplicationTests.testGetAll" />
+        <item itemvalue="JUnit.Springboot05MybatisplusApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot04MybatisApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot04JunitApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63240887-d675-4f7c-9eea-c07e022da1c3" name="Changes" comment="" />
+      <created>1683349366338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683349366338</updated>
+      <workItem from="1683349368505" duration="8095000" />
+      <workItem from="1683357618383" duration="429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fisrt commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fisrt commit" />
+  </component>
+</project>
